@@ -13,7 +13,7 @@ o<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b1
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMarques457&show_icons=true&count_private=true&hide_border=true&title_color=e5dbff&icon_color=e5dbff&text_color=e5dbff&bg_color=5f3dc4" alt="Guilherme Marques Status do GitHub" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMarques457&layout=compact&hide_border=true&title_color=e5dbff&text_color=e5dbff&bg_color=6741d9" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMarques457&layout=compact&hide_border=true&title_color=e5dbff&text_color=e5dbff&bg_color=5f3dc4" />
 </div>
 
 ### Contatos
