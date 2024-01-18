@@ -29,7 +29,7 @@
  ### Habilidades
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,angular,ts,reactivex,html,css,js,bootstrap,docker,kubernetes,git,github,flutter" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,reactivex,html,css,js,bootstrap,azure,docker,kubernetes,git,github" />
 </div>
 
 <div align="center">
