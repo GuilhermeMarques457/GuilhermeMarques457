@@ -16,13 +16,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMarques457&layout=compact&hide_border=true&title_color=e5dbff&text_color=e5dbff&bg_color=6741d9" />
 </div>
 
-
-### Projeto principal
-[![Readme Card](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMarques457&repo=Odonto-Control-Public&theme=dark)
-
-### Portifólio
-[![Readme Card]((https://marques-developer-portifolio.netlify.app/))](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contatos
 
 
@@ -36,15 +29,8 @@
  ### Habilidades
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,github,typescript,sass,redux" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,angular,ts,reactivex,html,css,js,bootstrap,docker,kubernetes,git,github,flutter" />
 </div>
- 
-
-
-
-
-
-
 
 <div align="center">
 <br><p align="center" ><b>Visitors Count</b></p>  
@@ -55,4 +41,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b197fc&height=120&section=footer"/>
