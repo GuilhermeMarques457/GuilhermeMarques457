@@ -21,7 +21,7 @@
 [![Readme Card](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMarques457&repo=Odonto-Control-Public&theme=dark)
 
 ### Portifólio
-[![Readme Card]((https://marques-developer-portifolio.netlify.app/))
+[![Readme Card]((https://marques-developer-portifolio.netlify.app/))](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
