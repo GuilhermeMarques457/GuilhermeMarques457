@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMarques457&show_icons=true&count_private=true&hide_border=true&title_color=0b197fc&icon_color=0b197fc&text_color=b197fc&bg_color=48D1CC" alt="Guilherme Marques Status do GitHub" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMarques457&layout=compact&hide_border=true&title_color=0b197fc&text_color=0b197fc&bg_color=48D1CC" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMarques457&show_icons=true&count_private=true&hide_border=true&title_color=0b197fc&icon_color=0b197fc&text_color=0b197fc&bg_color=e5dbff" alt="Guilherme Marques Status do GitHub" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMarques457&layout=compact&hide_border=true&title_color=0b197fc&text_color=0b197fc&bg_color=e5dbff" />
 </div>
 
 
