@@ -24,7 +24,7 @@ o<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b1
 </div>
 
 ### Projeto principal
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMarques457&repo=OdontoControl&theme=dark)](https://github.com/GuilhermeMarques457/Odonto-Control-Public)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMarques457&repo=Odonto-Control-Public&theme=dark)](https://github.com/GuilhermeMarques457/Odonto-Control-Public)
 
 <div align="center">
 <br><p align="center" ><b>Visitors Count</b></p>  
