@@ -23,6 +23,9 @@ o<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b1
   <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,reactivex,html,css,js,bootstrap,azure,docker,kubernetes,git,github" />
 </div>
 
+### Projeto principal
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMarques457&repo=OdontoControl&theme=dark)](https://github.com/GuilhermeMarques457/Odonto-Control-Public)
+
 <div align="center">
 <br><p align="center" ><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoMarquesDev}/count.svg" /></p> 
