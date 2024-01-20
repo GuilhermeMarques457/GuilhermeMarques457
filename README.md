@@ -27,12 +27,15 @@ o<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b1
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMarques457&repo=Odonto-Control-Public&theme=dark)](https://github.com/GuilhermeMarques457/Odonto-Control-Public)
 
 
-### Contatos
+### Portifólio
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMarques457&repo=Portfolio-Guilherme-Marquesc&theme=dark)](https://marques-developer-portifolio.netlify.app/)
+
+
+### Linkedin
 
 <div align="center"> 
-
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/guilherme-marques-dos-santos/)
- </div>
+  [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/guilherme-marques-dos-santos/)
+</div>
 
 <div align="center">
 <br><p align="center" ><b>Visitors Count</b></p>  
